@@ -1,5 +1,3 @@
-[baronawc.github.io](baronawc.github.io)
-
 # Tabletop Tool
 A web app with various functions that may be useful for tabletop games
 
